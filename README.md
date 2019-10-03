@@ -15,6 +15,8 @@ Since 2008, guests and hosts have used Airbnb to travel in a more unique, person
 
 airbnb.ipynb  - include all the code used to solve the problem
 
+Blog Post.md  - a blog post summary the result of the project
+
 # Summary
 
 Through my analysis, i found that summer is the busiest season. If you want to travel in a more leisure way, you'd better not go to Seattle in summer.
