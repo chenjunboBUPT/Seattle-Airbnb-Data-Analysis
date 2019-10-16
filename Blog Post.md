@@ -16,11 +16,11 @@ I counted the monthly bookings for Seattle,and find that Seattle is very busy in
 
 Travel budget is an important part of travel planning.So i want to know what factors are house prices related to? 
 
-By building a model to predict the house price, I find the most important factor is the neighbor.If you wan to reduce your travel budget, you'd better find a house in a cheap neighborhood. 
+By building a model to predict the house price, I find the most important factor is room type and neighbor.If you wan to reduce your travel budget, you'd better find a house in a cheap neighborhood and share with others.
 
 
 
-![](https://img2018.cnblogs.com/blog/1821356/201910/1821356-20191003225013601-418953563.png)
+
 
 
 
