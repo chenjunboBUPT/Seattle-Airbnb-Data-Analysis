@@ -2,7 +2,6 @@
 
 1. Download the [Seattle AirBNB Data](https://www.kaggle.com/airbnb/seattle/data)
 2. Run all all in the airbnb.ipynb
-3. 
 
 # Libraries
 
